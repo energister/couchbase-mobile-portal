@@ -22,7 +22,6 @@ To summarize, a document has the following attributes:
 conflicts)
 - A body in the form of a JSON object, i.e. a set of key/value pairs
 - Zero or more named binary attachments
-- Creating, Reading, Updating and Deleting documents (CRUD)
 
 ## Creating, Reading, Updating and Deleting documents (CRUD)
 
